@@ -1,7 +1,7 @@
 # Twitter Sentimental analysis of real time data
 
 
-i made this code in python 3.6.2 version.
+i made this code in python 3.6.2 version. Internet connection is required to run this application since it fetches real time tweets from tweeter.
 
 At first you have to get your twitter api keys - consumer_key, Consumer_secret, access_token, access_token_secret
 
